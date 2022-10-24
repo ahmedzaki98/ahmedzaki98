@@ -23,7 +23,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I’m fresh grad and has a Bachelor's Degree in Computer Science, Faculty of Science Cairo university.
 - 💼 &nbsp; Front-end web developer ,and Vue.js developer. 
-- How to reach me: __ahmedzaki19998@gmail.com__<br /><br /><br /><br /><br /><br /><br /><br /><br />
+- How to reach me: __ahmedzaki19998@gmail.com__<br /><br /><br /><br /><br /><br /><br />
 &nbsp;
 <br>
 
