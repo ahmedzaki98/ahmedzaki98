@@ -20,9 +20,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Backend (Spring/NodeJS)
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I’m fresh grad and has a Bachelor's Degree in Computer Science, Faculty of Science Cairo university
+- 🎓 &nbsp; I’m fresh grad and has a Bachelor's Degree in Computer Science, Faculty of Science Cairo university.
 - 💼 &nbsp; Front-end web developer ,and Vue.js developer. 
 - How to reach me: __ahmedzaki19998@gmail.com__
 &nbsp;
