@@ -26,12 +26,8 @@
 - How to reach me: __ahmedzaki19998@gmail.com__
 &nbsp;
 <br>
-
-  
-  
-  
-  
-
+<br>
+<br>
 
 ### Languages and Tools: 
 
