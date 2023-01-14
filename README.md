@@ -15,7 +15,7 @@
 </p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-gamal-459447232/)
-[![Resume](https://img.shields.io/badge/Resume-<COLOR>.svg)](https://drive.google.com/file/d/17Cr1usBBv62qt--Np8guW8D3ex3o3U5C/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-<COLOR>.svg)](https://drive.google.com/file/d/1hxn7V_fRf4UsnwiSEKlauAojrcuvfN8_/view?usp=share_link)
      
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
