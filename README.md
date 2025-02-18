@@ -3,7 +3,7 @@
 <!-- Your title -->
 ## Hello, I'm Ahmed Gamal!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Egyption+Software+Engineer;Front-end+Developer;and+React.js+|+Vue.js+Developer!;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Egyptian+Software+Engineer;Front-end+Developer;and+React.js!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 
 
@@ -23,8 +23,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I’m fresh grad and has a Bachelor's Degree in Computer Science, Faculty of Science Cairo university.
-- 💼 &nbsp; Front-end web developer ,and React.js | Vue.js developer. 
+- 🎓 &nbsp; I have a Bachelor's Degree in Computer Science, from the Faculty of Science at Cairo University.
+- 💼 &nbsp; Front-end web developer, and React.js. 
 - How to reach me: __ahmedzaki19998@gmail.com__<br /><br /><br /><br /><br />
 &nbsp;
 <br>
